@@ -11,7 +11,7 @@ int main(){
     
     distancia = sqrt(pow(x2-x1, 2)+pow(y1-y2, 2));
     
-    printf("%.2f",distancia);
+    printf("%.2f\n",distancia);
     
     
     
